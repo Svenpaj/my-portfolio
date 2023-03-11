@@ -4,12 +4,12 @@ a portfolio website
 
 @ Local
 
-npm install
+npm install /n
 npm run dev
 
 @ server
 
-npm install
+npm install /n
 npm run build
 
 start index.js
