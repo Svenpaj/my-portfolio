@@ -4,7 +4,7 @@ a portfolio website
 
 @ Local
 
-npm install
+npm install --legacy-peer-deps
 
 npm run dev
 
