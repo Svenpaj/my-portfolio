@@ -10,7 +10,7 @@ npm run dev
 
 @ server
 
-npm install
+npm install --legacy-peer-deps
 
 npm run build
 
